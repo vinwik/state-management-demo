@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": "1703634",
+      "name": "Obey icon eyes bucket hat",
+      "price": "40.00",
+      "color": "Lime",
+      "type": "Men",
+      "category": "Accessories",
+      "subCategory": "Hat",
+      "brand": "Obey",
+      "image": "https://images.asos-media.com/products/obey-icon-eyes-bucket-hat-in-green/20224121-1-lime",
+      "details": "Top things off|Bucket style|Flat top|Narrow brim|Eyelet vents to reverse|Logo patch detail"
+    },
+    {
+      "id": "1805768",
+      "name": "Pull&Bear loose fit t-shirt",
+      "price": "29.99",
+      "color": "White",
+      "type": "Men",
+      "brand": "Pull&Bear",
+      "category": "Tops",
+      "Text": "T-shirt",
+      "details": "Act casual|Crew neck|Short sleeves|Chest print|Relaxed fit|Loose cut ",
+      "image": "https://images.asos-media.com/products/pullbear-loose-fit-t-shirt-with-chest-print-in-white/21513039-1-white",
+      "sizes": "XS|S|M|L|XL"
+    },
+    {
+      "id": "1762522",
+      "name": "EA7 Core ID hooded jacket",
+      "price": "120.00",
+      "color": "Khaki",
+      "type": "Men",
+      "category": "Jackets",
+      "brand": "EA7",
+      "details": "That new-jacket feeling |Fixed hood|Zip fastening|Logo print to chest |Zip side pockets|Elasticated cuffs|Regular fit|True to size",
+      "image": "https://images.asos-media.com/products/ea7-core-id-logo-hooded-jacket-in-khaki/20952793-1-khaki",
+      "sizes": "XS|S|M|L|XL"
+    }
+  ]
+}
